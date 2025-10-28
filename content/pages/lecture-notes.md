@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains textbook-style course notes, a quantum mechanics
   handout, and selected lecture slides.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

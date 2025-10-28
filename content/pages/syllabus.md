@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description, a list of topics
   covered, and information on meeting times, learning goals, suggested textbooks,
   requirements, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
